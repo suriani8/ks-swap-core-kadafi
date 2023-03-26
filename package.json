@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/KyberNetwork/dmm-sdk-core.git"
+    "url": "git+ssh://git@github.com/suriani8/ks-swap-core-kadafi.git"
   },
   "keywords": [
     "kyberswap",
@@ -48,8 +48,8 @@
     "trailingComma": "all"
   },
   "bugs": {
-    "url": "https://github.com/KyberNetwork/dmm-sdk-core/issues"
+    "url": "https://github.com/suriani8/ks-swap-core-kadafi/issues"
   },
-  "homepage": "https://github.com/KyberNetwork/dmm-sdk-core#readme",
+  "homepage": "https://github.com/suriani8/ks-swap-core-kadafi#readme",
   "author": "kadafial"
 }
